@@ -37,6 +37,6 @@ The slider displays **one image at a time** and allows users to navigate through
 
 Clone The Project:
 
-git clone https://github.com/kundusomnath610/JavaScript_image_Slider.git
+git clone [https://github.com/kundusomnath610/JavaScript_image_Slider.git](https://github.com/kundusomnath610/JavaScript_image_Slider)
 
 
